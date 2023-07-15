@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pallavi Dhakne</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-
+<img align="right" alt="Coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pallavidhakne&label=Profile%20views&color=0e75b6&style=flat" alt="pallavidhakne" /> </p>
 
 - 🔭 I’m currently working on [Personal Portfolio Website](https://github.com/pallavidhakne/Pallavi_Portfolio_Website)
